@@ -1,0 +1,33 @@
+\begin{thebibliography}{1}
+
+\bibitem{multimeter}
+FLUKE.
+\newblock {\em FLUKE 83, 85, 87 Multimeters}, 5 edition, 1898.
+
+\bibitem{ad2spec}
+AD2.
+\newblock Analog discovery 2 specifications - digilent reference --- digilent.com.
+\newblock \url{https://digilent.com/reference/test-and-measurement/analog-discovery-2/specifications}.
+\newblock [Accessed 05-10-2023].
+
+\bibitem{errorDFT}
+J.~Schoukens and J.~Renneboog.
+\newblock Modeling the noise influence on the fourier coefficients after a discrete fourier transform.
+\newblock {\em IEEE transactions on instrumentation and measurement}, IM-35(3):278--286, 1986.
+
+\bibitem{phaseDetection}
+D.~Agrez.
+\newblock Improving phase estimation with leakage minimization.
+\newblock {\em IEEE transactions on instrumentation and measurement}, 54(4):1347--1353, 2005.
+
+\bibitem{circStat}
+S.~Rao Jammalamadaka.
+\newblock {\em Topics in circular statistics [electronic resource] / S. Rao Jammalamadaka, A. SenGupta.}
+\newblock Series on multivariate analysis ; 5. World Scientific, River Edge, N.J., 2001.
+
+\bibitem{parasite}
+John Semmlow.
+\newblock {\em Circuits, Signals, and Systems for Bioengineers: A MATLAB-Based Introduction}.
+\newblock Elsevier Science, San Diego, 1 edition, 2005.
+
+\end{thebibliography}
